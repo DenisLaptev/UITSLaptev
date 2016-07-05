@@ -1,6 +1,6 @@
 package lesson17.Fruits;
 
-import IdeaHomeWork.uits.jv1604.laptevhomework.lesson17.Fruit;
+import lesson17.Fruit;
 
 /**
  * Created by lapte on 03.06.2016.

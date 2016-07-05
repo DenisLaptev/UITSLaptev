@@ -1,8 +1,8 @@
 package lesson17;
 
-import IdeaHomeWork.uits.jv1604.laptevhomework.lesson17.FoodProcessor.*;
-import IdeaHomeWork.uits.jv1604.laptevhomework.lesson17.Fruits.*;
-import IdeaHomeWork.uits.jv1604.laptevhomework.lesson17.Vegetables.*;
+import lesson17.FoodProcessor.*;
+import lesson17.Fruits.*;
+import lesson17.Vegetables.*;
 
 import java.util.ArrayList;
 

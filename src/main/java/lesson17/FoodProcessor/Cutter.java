@@ -1,6 +1,6 @@
 package lesson17.FoodProcessor;
 
-import IdeaHomeWork.uits.jv1604.laptevhomework.lesson17.Vegetable;
+import lesson17.Vegetable;
 
 import java.util.ArrayList;
 

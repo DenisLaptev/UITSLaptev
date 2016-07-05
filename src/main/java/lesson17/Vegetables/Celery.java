@@ -1,6 +1,6 @@
 package lesson17.Vegetables;
 
-import IdeaHomeWork.uits.jv1604.laptevhomework.lesson17.Vegetable;
+import lesson17.Vegetable;
 
 /**
  * Created by lapte on 03.06.2016.
